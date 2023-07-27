@@ -1,0 +1,13 @@
+<html>
+<title>lakshman</title>
+<body>
+<div style:bgcolor=red;width:600px;height:400px">
+<div style:bdcolor=orange;width:600;height:200px"></div>
+<div style:bgcolor=white;width:600;height:200px"></div>
+</div>
+
+
+</div>
+</body>
+
+</html>

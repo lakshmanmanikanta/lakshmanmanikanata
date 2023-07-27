@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>aditya</title>
+</head>
+<body>
+<img src="https://aec.edu.in/aec/banners/COE%20copy.jpg" width="300" height="300">
+</body>
+</html>

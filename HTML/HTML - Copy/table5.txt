@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>tables2</title>
+</head>
+<body>
+<table>
+<center><thead><th>TITLE</th></thead></center>
+<tbody>
+<tr><td colspan="2">Subtitle</td><td colspan="2">Subtitle</td>s
+
+
+</tbody>
+
+</body>
+</html>
